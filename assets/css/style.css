@@ -1,0 +1,24 @@
+.jumbotron {
+    color: #ffffff;
+    background-color: #1403f5;
+}
+
+.train-form {
+    background-color: rgb(180, 178, 178);
+    color: #ffffff;
+    border-color: #1403f5;
+}
+
+.form-group {
+    padding: 10px;
+    color: blue;
+}
+
+.btn-primary {
+    background-color: #1403f5;
+    border-color: #fff; 
+}
+
+.panel-default {
+    border-color: black;
+}
